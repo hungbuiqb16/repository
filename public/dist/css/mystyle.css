@@ -1,0 +1,19 @@
+.main-img-preview-detail {
+   position: relative;
+   margin: auto;
+   width: 200px;
+   height: 200px;
+}
+button#del-main-image-pre {
+/*	position: absolute;
+	top: 0;*/
+    border: none;
+    background-color: transparent;
+}
+button.del-other-image-pre {
+/*	position: absolute;
+	top: 0;*/
+    border: none;
+    background-color: transparent;
+}
+
